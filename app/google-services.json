@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "579343231075",
+    "firebase_url": "https://prymal-194b6.firebaseio.com",
+    "project_id": "prymal-194b6",
+    "storage_bucket": "prymal-194b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579343231075:android:3eb33878e8aa0befd83056",
+        "android_client_info": {
+          "package_name": "com.example.prymal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579343231075-56q5125s72ao7kiq7jdj39c0p0vkrs5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPnyCVic-UUPT4Uhaw4kwoNjkfxX2_ZOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579343231075-56q5125s72ao7kiq7jdj39c0p0vkrs5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

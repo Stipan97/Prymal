@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prymal</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="pet_name">Pet Name</string>
+    <string name="description">Description</string>
+    <string name="add_your_location">Add your location</string>
+    <string name="choose">Choose</string>
+    <string name="upload_as_post">Upload as Post</string>
+    <string name="upload_as_profile_image">Upload as Profile Image</string>
+    <string name="upload_as_pet_image">Upload as Pet Image</string>
+    <string name="search_user">Search user</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="logout">logout</string>
+</resources>
